@@ -1,5 +1,5 @@
 # myoraptor-controller
-A PCB shield for controlling the Raptor Reloaded 3D printed prosthetic with the MyoWare EMG sensor.
+A PCB shield for controlling the Raptor Reloaded 3D printed prosthetic with the MyoWare EMG sensor. KiCAD library references point to <a href="https://github.com/wickerbox/">Wickerbox Electronics</a>. 
 Click <a href="https://oshpark.com/shared_projects/Pn4XONTR">here</a> to order this board from OSH Park!
 
 ## Board Previews
